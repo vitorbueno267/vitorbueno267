@@ -6,7 +6,7 @@
 <!--GIF--> 
 <p align="Left">
   
-  ![15e7e300166c962d3b8a22f60b5cac9e](https://github.com/vitorbueno267/vitorbueno267/assets/84080970/a66e2164-7025-4d0c-8f8c-205f6241973e)
+ ![ezgif-3-ca2e6123af](https://github.com/vitorbueno267/vitorbueno267/assets/84080970/d6b9fedf-eb03-4f93-9b43-a20e82b7204c)
   
 </p>
 
@@ -24,23 +24,23 @@ My name is Vitor! A passionate system analysis and development student from Braz
 </div>
 
 <div style="display: inlide_block">
-    <img aling ="center alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+    <img aling ="center  alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black&color=aqua"
 </div>
 <div style="display: inlide_block">
-    <img aling ="center alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+    <img aling ="center alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=black&color=aqua"
 </div>
 <div style="display: inlide_block">
-    <img aling ="center alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
-</div> 
+    <img aling ="center alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=black&color=aqua"
+</div>
 <div>
     <div syle="display: inlide_block">
-       <img aling ="center alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+       <img aling ="center alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black&color=aqua"
 </div>
 <div>
         Networks
 </div>
     
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vitorbueno191@gmail.com)
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]("mailto:vitorbueno191@gmail.com")
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_bueno223?igsh=MTJlNHlsaHBmNGk0ZQ%3D%3D&utm_source=qr)
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-bueno-dos-santos-053665256/)
 
