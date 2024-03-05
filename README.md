@@ -40,7 +40,7 @@ My name is Vitor! A passionate system analysis and development student from Braz
         Networks
 </div>
     
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]("mailto:vitorbueno191@gmail.com")
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitorbueno191@gmail.com)
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_bueno223?igsh=MTJlNHlsaHBmNGk0ZQ%3D%3D&utm_source=qr)
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-bueno-dos-santos-053665256/)
 
