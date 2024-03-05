@@ -5,7 +5,9 @@
 </div>
 <!--GIF--> 
 <p align="Left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+  
+  ![15e7e300166c962d3b8a22f60b5cac9e](https://github.com/vitorbueno267/vitorbueno267/assets/84080970/a66e2164-7025-4d0c-8f8c-205f6241973e)
+  
 </p>
 
  <div>
@@ -44,7 +46,7 @@ My name is Vitor! A passionate system analysis and development student from Braz
 
 <!--divisor--->
 <details>
-  <summary>👨‍💻 More about me</summary>
+  <summary> More about me👨‍💻</summary>
 <div>
     <h3>
 -Systems analysis and development student, 20 years old, with desire and open mind for new learning. Looking for an opportunity to improve my skills and assist in both company and personal growth.
@@ -55,5 +57,11 @@ My name is Vitor! A passionate system analysis and development student from Braz
         </h3>
 </div>
 </details>
+<div>
+My stats 👨‍💻
+  
+![vitorbueno267 GitHUb stats](https://github-readme-stats.vercel.app/api?username=vitorbueno267&show_icons=true&theme=tokyonight)
+
+</div>
     
 
