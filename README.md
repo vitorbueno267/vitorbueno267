@@ -13,7 +13,7 @@
  <div>
 <p>
     <ul align="Left">
-Meu nome é Vitor! Um apaixonado em tecnologias estudante de análise e desenvolvimento de sistemas.👨‍💻
+My name is Vitor! A passionate technology student in systems analysis and development.👨‍💻
 
 </p>
 </div>
